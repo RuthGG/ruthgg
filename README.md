@@ -6,6 +6,7 @@
 
 I'm a highly motivated, enthusiastic bioinformatics scientist with a PhD in Genetics and 8+ years of experience in **large-scale biological data analysis, statistical modeling, and data pipeline optimization**. I'm highly **creative** and enjoy applying out-of-the-box approaches to scientific challenges. Proficient in **data visualization** and **science communication**, I have a strong desire to work in a collaborative environment characterized by open communication and innovation.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuthgG&show_icons=true&locale=en&layout=compact" alt="RuthGG" /></p>
 
 
 
